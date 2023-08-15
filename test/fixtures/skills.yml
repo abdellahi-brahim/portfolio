@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  icon: MyString
+  kind: MyString
+  education: one
+  certification: one
+  project: one
+
+two:
+  name: MyString
+  icon: MyString
+  kind: MyString
+  education: two
+  certification: two
+  project: two
